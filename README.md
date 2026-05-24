@@ -22,18 +22,24 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,cs,dotnet,python,r,matlab,bash,html,css,js,ts,react,nodejs,nextjs,fastapi,flask,django,tensorflow,pytorch,sklearn,mysql,postgres,mongodb,redis,docker,kubernetes,linux,git,github,vscode,aws,gcp,anaconda" />
-<img src="https://cdn.simpleicons.org/oracle/F80000" width="48" height="48" alt="Oracle" title="Oracle"/>
-<img src="https://cdn.simpleicons.org/qgis/589632" width="48" height="48" alt="QGIS" title="QGIS"/>
-<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="Hugging Face" title="Hugging Face"/>
-<img src="https://cdn.simpleicons.org/numpy/013243" width="48" height="48" alt="NumPy" title="NumPy"/>
-<img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="48" alt="Pandas" title="Pandas"/>
-<img src="https://cdn.simpleicons.org/scipy/8CAAE6" width="48" height="48" alt="SciPy" title="SciPy"/>
-<img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" height="48" alt="Jupyter" title="Jupyter"/>
-<img src="https://cdn.simpleicons.org/plotly/3F4F75" width="48" height="48" alt="Plotly" title="Plotly"/>
-<img src="https://cdn.simpleicons.org/tableau/E97627" width="48" height="48" alt="Tableau" title="Tableau"/>
-<img src="https://cdn.simpleicons.org/latex/008080" width="48" height="48" alt="LaTeX" title="LaTeX"/>
-<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48" height="48" alt="Excel" title="Excel"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,cs,dotnet,python,r,matlab,bash,html,css,js,ts,react,nodejs,nextjs,fastapi,flask,django,tensorflow,pytorch,sklearn,mysql,postgres,mongodb,redis,docker,kubernetes,linux,git,github,vscode,aws,gcp,anaconda&perline=999" />
+
+<br/>
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 </div>
 
@@ -44,11 +50,11 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/aya-e-7429b82b6" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="52" height="52" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="mailto:contact.es.ayah@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="52" height="52" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 </div>
