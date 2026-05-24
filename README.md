@@ -31,11 +31,22 @@
 <img src="https://cdn.simpleicons.org/numpy/%23013243" width="52" height="52" style="padding: 3px;" alt="numpy"/>
 <img src="https://cdn.simpleicons.org/pandas/%23150458" width="52" height="52" style="padding: 3px;" alt="pandas"/>
 <img src="https://cdn.simpleicons.org/jupyter/%23F37626" width="52" height="52" style="padding: 3px;" alt="jupyter"/>
+<img src="https://cdn.simpleicons.org/opencv/%235C3EE8" width="52" height="52" style="padding: 3px;" alt="opencv"/>
+<img src="https://cdn.simpleicons.org/sqlalchemy/%23D71F00" width="52" height="52" style="padding: 3px;" alt="sqlalchemy"/>
 <img src="https://cdn.simpleicons.org/scipy/%238CAAE6" width="52" height="52" style="padding: 3px;" alt="scipy"/>
+<img src="https://cdn.simpleicons.org/keras/%23D00000" width="52" height="52" style="padding: 3px;" alt="keras"/>
 <img src="https://cdn.simpleicons.org/huggingface/%23FFD21E" width="52" height="52" style="padding: 3px;" alt="huggingface"/>
+<img src="https://cdn.simpleicons.org/openai/%23412991" width="52" height="52" style="padding: 3px;" alt="openai"/>
+<img src="https://cdn.simpleicons.org/langchain/%231C3C3C" width="52" height="52" style="padding: 3px;" alt="langchain"/>
+<img src="https://cdn.simpleicons.org/apachekafka/%23231F20" width="52" height="52" style="padding: 3px;" alt="kafka"/>
+<img src="https://cdn.simpleicons.org/apachespark/%23E25A1C" width="52" height="52" style="padding: 3px;" alt="spark"/>
+<img src="https://cdn.simpleicons.org/databricks/%23FF3600" width="52" height="52" style="padding: 3px;" alt="databricks"/>
+<img src="https://cdn.simpleicons.org/prometheus/%23E6522C" width="52" height="52" style="padding: 3px;" alt="prometheus"/>
+<img src="https://cdn.simpleicons.org/grafana/%23F46800" width="52" height="52" style="padding: 3px;" alt="grafana"/>
 <img src="https://cdn.simpleicons.org/tableau/%23E97627" width="52" height="52" style="padding: 3px;" alt="tableau"/>
 <img src="https://cdn.simpleicons.org/powerbi/%23F2C811" width="52" height="52" style="padding: 3px;" alt="powerbi"/>
 <img src="https://cdn.simpleicons.org/qgis/%23589632" width="52" height="52" style="padding: 3px;" alt="qgis"/>
+<img src="https://cdn.simpleicons.org/postgis/%23336699" width="52" height="52" style="padding: 3px;" alt="postgis"/>
 <img src="https://cdn.simpleicons.org/latex/%23008080" width="52" height="52" style="padding: 3px;" alt="latex"/>
 <img src="https://cdn.simpleicons.org/microsoftexcel/%23217346" width="52" height="52" style="padding: 3px;" alt="excel"/>
 
