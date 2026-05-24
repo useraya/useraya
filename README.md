@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Eya
+# Hi I'm Eya
 ### Building at the intersection of Quantitative Finance, AI & Data Science
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Quantitative+Finance;Machine+Learning+%26+AI;Macro+Economic+Research;Statistical+Modeling;Trading+Systems+Development" />
