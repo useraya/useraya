@@ -22,10 +22,10 @@
 #### Languages
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45" style="padding-right: 12px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="45" height="45" style="padding-right: 12px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45" style="padding-right: 12px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45" style="padding-right: 12px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="45" height="45" style="padding-right: 12px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45" style="padding-right: 12px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="45" height="45" style="padding-right: 12px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="sql" width="45" height="45" style="padding-right: 12px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="45" height="45" style="padding-right: 12px;"/>
 </p>
@@ -36,20 +36,19 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45" style="padding-right: 12px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="45" height="45" style="padding-right: 12px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="45" height="45" style="padding-right: 12px;"/>
-  <img src="https://img.shields.io/badge/scikitlearn-%23F7931E.svg?style=plain&logo=scikit-learn&logoColor=orange" alt="scikit-learn" width="45" height="45" style="padding-right: 12px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="45" height="45" style="padding-right: 12px;"/>
 </p>
 
 #### Finance & Quant
 <p align="left">
-  <img src="https://img.shields.io/badge/Yahoo!-FF3333?style=for-the-badge&logo=yahoo&logoColor=white" alt="yfinance" style="padding-right: 8px;"/>
-  <img src="https://img.shields.io/badge/Bloomberg-000000?style=for-the-badge&logo=bloomberg&logoColor=white" alt="bloomberg" style="padding-right: 8px;"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel" style="padding-right: 8px;"/>
+  <img src="https://cdn.simpleicons.org/yahoo" alt="yfinance" width="45" height="45" style="padding-right: 12px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftexcel/microsoftexcel-original.svg" alt="excel" width="45" height="45" style="padding-right: 12px;"/>
 </p>
 
 #### Geospatial
 <p align="left">
-  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="qgis" style="padding-right: 8px;"/>
-  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="folium" style="padding-right: 8px;"/>
+  <img src="https://cdn.simpleicons.org/qgis/%23589632" alt="qgis" width="45" height="45" style="padding-right: 12px;"/>
+  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=python&logoColor=white" style="padding-right: 5px;"/>
 </p>
 
 #### Tools & Environment
@@ -63,7 +62,6 @@
 </p>
 
 ---
-
 
 ### Connect With Me
 
