@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi I'm Eya
+# Hi, I'm Eya
 ### Building at the intersection of Quantitative Finance, AI & Data Science
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Quantitative+Finance;Machine+Learning+%26+AI;Macro+Economic+Research;Statistical+Modeling;Trading+Systems+Development" />
@@ -21,11 +21,25 @@
 ## Technologies & Tools
 
 <div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,java,cs,dotnet,python,r,matlab,bash,html,css,js,ts,react,nodejs,nextjs,fastapi,flask,django,tensorflow,pytorch,sklearn,mysql,postgres,mongodb,redis,docker,kubernetes,linux,git,github,vscode,aws,gcp,anaconda,numpy,pandas,latex,jupyter,opencv,kafka,grafana,prometheus&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c,cpp,java,cs,dotnet,python,r,matlab,bash,html,css,js,ts,react,nodejs,nextjs,fastapi,flask,django,tensorflow,pytorch,sklearn,mysql,postgres,mongodb,redis,docker,kubernetes,linux,git,github,vscode,aws,gcp,anaconda,numpy,pandas,latex,jupyter,opencv,kafka,grafana,prometheus&theme=light" />
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,dotnet,python,r,matlab,bash,html,css,js,ts,react,nodejs,nextjs,fastapi,flask,django,tensorflow,pytorch,sklearn,mysql,postgres,mongodb,redis,docker,kubernetes,linux,git,github,vscode,aws,gcp,anaconda,numpy,pandas,latex,jupyter,opencv,kafka,grafana,prometheus&theme=light" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,java,cs,dotnet,python,r,matlab,bash,html,css,js,ts,react,nodejs&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c,cpp,java,cs,dotnet,python,r,matlab,bash,html,css,js,ts,react,nodejs&theme=light" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,dotnet,python,r,matlab,bash,html,css,js,ts,react,nodejs&theme=light" />
 </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,fastapi,flask,django,tensorflow,pytorch,sklearn,mysql,postgres,mongodb,redis,docker,kubernetes,linux&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nextjs,fastapi,flask,django,tensorflow,pytorch,sklearn,mysql,postgres,mongodb,redis,docker,kubernetes,linux&theme=light" />
+  <img src="https://skillicons.dev/icons?i=nextjs,fastapi,flask,django,tensorflow,pytorch,sklearn,mysql,postgres,mongodb,redis,docker,kubernetes,linux&theme=light" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,aws,gcp,anaconda,numpy,pandas,latex,jupyter,opencv,kafka,grafana,prometheus&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vscode,aws,gcp,anaconda,numpy,pandas,latex,jupyter,opencv,kafka,grafana,prometheus&theme=light" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,gcp,anaconda,numpy,pandas,latex,jupyter,opencv,kafka,grafana,prometheus&theme=light" />
+</picture>
+
 </div>
 
 ---
