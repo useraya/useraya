@@ -1,7 +1,6 @@
 <div align="center">
 
 # Hi, I'm Eya
-
 ### Building at the intersection of Quantitative Finance, AI & Data Science
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Quantitative+Finance;Machine+Learning+%26+AI;Macro+Economic+Research;Statistical+Modeling;Trading+Systems+Development" />
@@ -23,32 +22,18 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,cs,dotnet,r,matlab,bash,js,ts,html,css,react,nodejs,nextjs,fastapi,flask,django,tensorflow,pytorch,sklearn,mysql,postgres,mongodb,redis,docker,kubernetes,linux,git,github,vscode,aws,gcp,anaconda" />
-
-<br><br>
-
-<img src="https://cdn.simpleicons.org/oracle/%23F80000" width="52" height="52" style="padding: 3px;" alt="oracle"/>
-<img src="https://cdn.simpleicons.org/numpy/%23013243" width="52" height="52" style="padding: 3px;" alt="numpy"/>
-<img src="https://cdn.simpleicons.org/pandas/%23150458" width="52" height="52" style="padding: 3px;" alt="pandas"/>
-<img src="https://cdn.simpleicons.org/jupyter/%23F37626" width="52" height="52" style="padding: 3px;" alt="jupyter"/>
-<img src="https://cdn.simpleicons.org/opencv/%235C3EE8" width="52" height="52" style="padding: 3px;" alt="opencv"/>
-<img src="https://cdn.simpleicons.org/sqlalchemy/%23D71F00" width="52" height="52" style="padding: 3px;" alt="sqlalchemy"/>
-<img src="https://cdn.simpleicons.org/scipy/%238CAAE6" width="52" height="52" style="padding: 3px;" alt="scipy"/>
-<img src="https://cdn.simpleicons.org/keras/%23D00000" width="52" height="52" style="padding: 3px;" alt="keras"/>
-<img src="https://cdn.simpleicons.org/huggingface/%23FFD21E" width="52" height="52" style="padding: 3px;" alt="huggingface"/>
-<img src="https://cdn.simpleicons.org/openai/%23412991" width="52" height="52" style="padding: 3px;" alt="openai"/>
-<img src="https://cdn.simpleicons.org/langchain/%231C3C3C" width="52" height="52" style="padding: 3px;" alt="langchain"/>
-<img src="https://cdn.simpleicons.org/apachekafka/%23231F20" width="52" height="52" style="padding: 3px;" alt="kafka"/>
-<img src="https://cdn.simpleicons.org/apachespark/%23E25A1C" width="52" height="52" style="padding: 3px;" alt="spark"/>
-<img src="https://cdn.simpleicons.org/databricks/%23FF3600" width="52" height="52" style="padding: 3px;" alt="databricks"/>
-<img src="https://cdn.simpleicons.org/prometheus/%23E6522C" width="52" height="52" style="padding: 3px;" alt="prometheus"/>
-<img src="https://cdn.simpleicons.org/grafana/%23F46800" width="52" height="52" style="padding: 3px;" alt="grafana"/>
-<img src="https://cdn.simpleicons.org/tableau/%23E97627" width="52" height="52" style="padding: 3px;" alt="tableau"/>
-<img src="https://cdn.simpleicons.org/powerbi/%23F2C811" width="52" height="52" style="padding: 3px;" alt="powerbi"/>
-<img src="https://cdn.simpleicons.org/qgis/%23589632" width="52" height="52" style="padding: 3px;" alt="qgis"/>
-<img src="https://cdn.simpleicons.org/postgis/%23336699" width="52" height="52" style="padding: 3px;" alt="postgis"/>
-<img src="https://cdn.simpleicons.org/latex/%23008080" width="52" height="52" style="padding: 3px;" alt="latex"/>
-<img src="https://cdn.simpleicons.org/microsoftexcel/%23217346" width="52" height="52" style="padding: 3px;" alt="excel"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,cs,dotnet,python,r,matlab,bash,html,css,js,ts,react,nodejs,nextjs,fastapi,flask,django,tensorflow,pytorch,sklearn,mysql,postgres,mongodb,redis,docker,kubernetes,linux,git,github,vscode,aws,gcp,anaconda" />
+<img src="https://cdn.simpleicons.org/oracle/F80000" width="48" height="48" alt="Oracle" title="Oracle"/>
+<img src="https://cdn.simpleicons.org/qgis/589632" width="48" height="48" alt="QGIS" title="QGIS"/>
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="Hugging Face" title="Hugging Face"/>
+<img src="https://cdn.simpleicons.org/numpy/013243" width="48" height="48" alt="NumPy" title="NumPy"/>
+<img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="48" alt="Pandas" title="Pandas"/>
+<img src="https://cdn.simpleicons.org/scipy/8CAAE6" width="48" height="48" alt="SciPy" title="SciPy"/>
+<img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" height="48" alt="Jupyter" title="Jupyter"/>
+<img src="https://cdn.simpleicons.org/plotly/3F4F75" width="48" height="48" alt="Plotly" title="Plotly"/>
+<img src="https://cdn.simpleicons.org/tableau/E97627" width="48" height="48" alt="Tableau" title="Tableau"/>
+<img src="https://cdn.simpleicons.org/latex/008080" width="48" height="48" alt="LaTeX" title="LaTeX"/>
+<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48" height="48" alt="Excel" title="Excel"/>
 
 </div>
 
@@ -59,11 +44,11 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/aya-e-7429b82b6" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/%230A66C2" width="52" height="52" style="padding: 4px;" alt="LinkedIn"/>
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="52" height="52" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;
 <a href="mailto:contact.es.ayah@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/%23EA4335" width="52" height="52" style="padding: 4px;" alt="Gmail"/>
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="52" height="52" alt="Gmail"/>
 </a>
 
 </div>
