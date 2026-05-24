@@ -30,18 +30,42 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="52"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="52"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="52"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="52"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="52"/>
 
 <img src="https://cdn.simpleicons.org/scipy" width="52"/>
+<img src="https://cdn.simpleicons.org/keras" width="52"/>
 <img src="https://cdn.simpleicons.org/huggingface" width="52"/>
+<img src="https://cdn.simpleicons.org/openai" width="52"/>
+<img src="https://cdn.simpleicons.org/langchain" width="52"/>
+<img src="https://cdn.simpleicons.org/apachekafka" width="52"/>
+<img src="https://cdn.simpleicons.org/apachespark" width="52"/>
+<img src="https://cdn.simpleicons.org/databricks" width="52"/>
+<img src="https://cdn.simpleicons.org/prometheus" width="52"/>
+<img src="https://cdn.simpleicons.org/grafana" width="52"/>
 <img src="https://cdn.simpleicons.org/tableau" width="52"/>
 <img src="https://cdn.simpleicons.org/powerbi" width="52"/>
 <img src="https://cdn.simpleicons.org/qgis" width="52"/>
 <img src="https://cdn.simpleicons.org/latex" width="52"/>
 <img src="https://cdn.simpleicons.org/microsoftexcel" width="52"/>
-<img src="https://cdn.simpleicons.org/microsoftpowerpoint" width="52"/>
 
 </div>
 
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/aya-e-7429b82b6" target="_blank">
+  <img src="https://cdn.simpleicons.org/linkedin/%230A66C2" width="48" height="48" style="padding-right: 10px;" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:contact.es.ayah@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/%23EA4335" width="48" height="48" alt="Gmail"/>
+</a>
+
+</div>
 ---
 
 ## Connect With Me
