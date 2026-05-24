@@ -5,9 +5,6 @@
 ---
 
 ### About Me
-* 🔭 I’m currently working on **[Your Current Project]**
-* 🤝 I’m looking to collaborate on **[What you want to build]**
-* 💬 Ask me about **Quant, Finance, and Trading**
 * 📫 How to reach me: **contact.es.ayah@gmail.com**
 
 ### Connect with me:
