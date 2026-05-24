@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I’m Eya
+# Hi I’m Eya
 
-### Engineering Student · Passionate about tech , financial markets & the world’s data
+### Building at the intersection of Tech , Quantitative Finance & Data Science
 
 </div>
 
@@ -10,55 +10,38 @@
 
 ### About Me
 
-- Engineering student with a love for applied math & statistics
-- Fascinated by financial markets , investment & how economies move
-- Curious about the world  especially when it can be mapped
-- Building things at the intersection of AI data & real-world problems
+- Engineering student focused on applied mathematics & statistics
+- Fascinated by financial markets , quantitative strategies & macroeconomic trends
+- Curious about spatial analytics and structural data mapping
+- Developing technical solutions for complex real-world data challenges
 
 ---
 
 ### Technologies & Tools
 
-#### Languages
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45" style="padding-right: 12px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45" style="padding-right: 12px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="45" height="45" style="padding-right: 12px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45" style="padding-right: 12px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="45" height="45" style="padding-right: 12px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="sql" width="45" height="45" style="padding-right: 12px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="45" height="45" style="padding-right: 12px;"/>
-</p>
-
-#### Data Science & Machine Learning
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45" style="padding-right: 12px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45" style="padding-right: 12px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="45" height="45" style="padding-right: 12px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="45" height="45" style="padding-right: 12px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="45" height="45" style="padding-right: 12px;"/>
-</p>
-
-#### Finance & Quant
-<p align="left">
-  <img src="https://cdn.simpleicons.org/yahoo" alt="yfinance" width="45" height="45" style="padding-right: 12px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftexcel/microsoftexcel-original.svg" alt="excel" width="45" height="45" style="padding-right: 12px;"/>
-</p>
-
-#### Geospatial
-<p align="left">
-  <img src="https://cdn.simpleicons.org/qgis/%23589632" alt="qgis" width="45" height="45" style="padding-right: 12px;"/>
-  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=python&logoColor=white" style="padding-right: 5px;"/>
-</p>
-
-#### Tools & Environment
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="45" height="45" style="padding-right: 12px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45" style="padding-right: 12px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45" height="45" style="padding-right: 12px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" style="padding-right: 12px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45" style="padding-right: 12px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45" style="padding-right: 12px;"/>
+  <img src="https://cdn.simpleicons.org/python/%233776AB" alt="python" width="45" height="45" style="padding-right: 12px; vertical-align: middle;"/>
+  <img src="https://cdn.simpleicons.org/oracle/%23F80000" alt="java" width="45" height="45" style="padding-right: 12px; vertical-align: middle;"/>
+  <img src="https://cdn.simpleicons.org/cplusplus/%2300599C" alt="c++" width="45" height="45" style="padding-right: 12px; vertical-align: middle;"/>
+  <img src="https://cdn.simpleicons.org/c/%23A8B9CC" alt="c" width="45" height="45" style="padding-right: 12px; vertical-align: middle;"/>
+  <img src="https://cdn.simpleicons.org/r/%23276DC3" alt="r" width="45" height="45" style="padding-right: 12px; vertical-align: middle;"/>
+  <img src="https://cdn.simpleicons.org/postgresql/%234169E1" alt="sql" width="45" height="45" style="padding-right: 12px; vertical-align: middle;"/>
+  <img src="https://cdn.simpleicons.org/mathworks/%230076A8" alt="matlab" width="45" height="45" style="padding-right: 12px; vertical-align: middle;"/>
+  <img src="https://cdn.simpleicons.org/numpy/%23013243" alt="numpy" width="45" height="45" style="padding-right: 12px; vertical-align: middle;"/>
+  <img src="https://cdn.simpleicons.org/pandas/%23150458" alt="pandas" width="45" height="45" style="padding-right: 12px; vertical-align: middle;"/>
+  <img src="https://cdn.simpleicons.org/tensorflow/%23FF6F00" alt="tensorflow" width="45" height="45" style="padding-right: 12px; vertical-align: middle;"/>
+  <img src="https://cdn.simpleicons.org/pytorch/%23EE4C2C" alt="pytorch" width="45" height="45" style="padding-right: 12px; vertical-align: middle;"/>
+  <img src="https://cdn.simpleicons.org/scikitlearn/%23F7931E" alt="scikit-learn" width="45" height="45" style="padding-right: 12px; vertical-align: middle;"/>
+  <img src="https://cdn.simpleicons.org/yahoo/%236001D2" alt="yfinance" width="45" height="45" style="padding-right: 12px; vertical-align: middle;"/>
+  <img src="https://cdn.simpleicons.org/quantconnect/%23F5A623" alt="zipline" width="45" height="45" style="padding-right: 12px; vertical-align: middle;"/>
+  <img src="https://cdn.simpleicons.org/microsoftexcel/%23217346" alt="excel" width="45" height="45" style="padding-right: 12px; vertical-align: middle;"/>
+  <img src="https://cdn.simpleicons.org/qgis/%23589632" alt="qgis" width="45" height="45" style="padding-right: 12px; vertical-align: middle;"/>
+  <img src="https://cdn.simpleicons.org/jupyter/%23F37626" alt="jupyter" width="45" height="45" style="padding-right: 12px; vertical-align: middle;"/>
+  <img src="https://cdn.simpleicons.org/git/%23F05032" alt="git" width="45" height="45" style="padding-right: 12px; vertical-align: middle;"/>
+  <img src="https://cdn.simpleicons.org/github/%23181717" alt="github" width="45" height="45" style="padding-right: 12px; vertical-align: middle;"/>
+  <img src="https://cdn.simpleicons.org/visualstudiocode/%23007ACC" alt="vscode" width="45" height="45" style="padding-right: 12px; vertical-align: middle;"/>
+  <img src="https://cdn.simpleicons.org/linux/%23FCC624" alt="linux" width="45" height="45" style="padding-right: 12px; vertical-align: middle;"/>
+  <img src="https://cdn.simpleicons.org/docker/%232496ED" alt="docker" width="45" height="45" style="padding-right: 12px; vertical-align: middle;"/>
 </p>
 
 ---
