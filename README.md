@@ -11,11 +11,9 @@
 
 ### About Me
 
-- Engineering student with a love for applied math & statistics
-- Fascinated by financial markets, investment & how economies move
-- Curious about the world, especially when it can be mapped
-- Building things at the intersection of AI, data & real-world problems
-
+- Engineering student 
+- Learning about financial markets, investment & how economies move
+- Building things 
 ---
 
 ## Technologies & Tools
